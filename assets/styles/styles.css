@@ -1,0 +1,18 @@
+body{background-color: darkgray }
+
+th{
+  text-align: center;
+}
+
+td{
+  text-align: center;
+}
+
+input{
+width: 70%;
+height: 70%;
+border: none;
+background-color: lightgray}
+
+
+h1{color: black;}
